@@ -7,7 +7,7 @@ I'm currently taking the Google Cybersecurity Certificate on Coursera and I've b
 
 So be it! With shy basics in networking and cybersecurity I decided to stuck with it. Just a bit longer to see what will happen. 
 
-Below is the portfolio draft proposed by genAI for Portfolio. I will use it for now and work through my course. 
+Below is the portfolio draft proposed by genAI. I will use it for now and work through my course. 
 
 My goals are to:
 - Track my growth in cybersecurity
